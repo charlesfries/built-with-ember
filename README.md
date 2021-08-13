@@ -29,6 +29,8 @@ An up to date list of publicly and privately available Ember applications.
 - [imgix Sandbox](https://sandbox.imgix.com/)
 - [Sweetgreen](https://order.sweetgreen.com/)
 - [SatisMeter](https://app.satismeter.com/)
+- [Qonto](https://app.qonto.com/)
+- 
 
 ## Open Source
 
