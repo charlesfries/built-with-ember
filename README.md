@@ -14,6 +14,7 @@ An up to date list of publicly and privately available Ember applications.
 - [DockYard](https://dockyard.com/)
 - [Skylight](https://www.skylight.io/app/)
 - [Yapp](https://www.yapp.us/)
+- [Discourse](https://try.discourse.org/)
 
 ## Open Source
 
