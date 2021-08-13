@@ -33,6 +33,7 @@ An up to date list of publicly and privately available Ember applications.
 - [Qonto](https://app.qonto.com/)
 - [kaliber5](https://www.kaliber5.de/)
 - [TrueCoach](https://app.truecoach.co/)
+- [Localistico](https://app.localistico.com/)
 
 ## Open Source
 
