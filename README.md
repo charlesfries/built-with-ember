@@ -40,6 +40,7 @@ An up to date list of publicly and privately available Ember applications.
 - [LexasCMS](https://app.lexascms.com/)
 - [OTA Insight](https://app.otainsight.com/)
 - [Outdoorsy](https://www.outdoorsy.com/)
+- [DocHub](https://dochub.com/)
 
 ## Open Source
 
