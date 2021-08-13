@@ -43,5 +43,7 @@ An up to date list of publicly and privately available Ember applications.
 
 ## Open Source
 
-- https://github.com/yahoo/covid-19-dashboard
-- https://github.com/CenterForOpenScience/ember-osf-web
+- [Yahoo Knowledge Graph COVID-19 Dashboard](https://github.com/yahoo/covid-19-dashboard)
+- [OSF](https://github.com/CenterForOpenScience/ember-osf-web)
+- [emberclear](https://github.com/NullVoxPopuli/emberclear)
+- [Ghost Admin](https://github.com/TryGhost/Admin)
