@@ -22,6 +22,11 @@ An up to date list of publicly and privately available Ember applications.
 - [Forest Admin](https://app.forestadmin.com/)
 - [9TEAMS](https://app.9teams.com/)
 - [Envoy](https://dashboard.envoy.com/)
+- [Indie Hackers](https://www.indiehackers.com/)
+- [Batterii](https://app.batterii.com/)
+- [Flexbox Defense](http://www.flexboxdefense.com/)
+- [imgix Sandbox](https://sandbox.imgix.com/)
+- [Sweetgreen](https://order.sweetgreen.com/)
 
 ## Open Source
 
