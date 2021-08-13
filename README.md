@@ -36,6 +36,10 @@ An up to date list of publicly and privately available Ember applications.
 - [Localistico](https://app.localistico.com/)
 - [Scout](https://app.scoutforpets.com/)
 - [Clockk](https://app.clockk.com/)
+- [OMI](https://omi.app/)
+- [LexasCMS](https://app.lexascms.com/)
+- [OTA Insight](https://app.otainsight.com/)
+- [Outdoorsy](https://www.outdoorsy.com/)
 
 ## Open Source
 
