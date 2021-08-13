@@ -18,6 +18,10 @@ An up to date list of publicly and privately available Ember applications.
 - [Ghost](https://ghost.org/)
 - [Kitsu](https://kitsu.io/)
 - [DigitalOcean](https://cloud.digitalocean.com/)
+- [ActiveCampaign](https://www.activecampaign.com/login)
+- [Forest Admin](https://app.forestadmin.com/)
+- [9TEAMS](https://app.9teams.com/)
+- [Envoy](https://dashboard.envoy.com/)
 
 ## Open Source
 
