@@ -10,3 +10,12 @@ An up to date list of publicly and privately available Ember applications.
 - [Square](https://squareup.com/dashboard/)
 - [CrowdStrike Falcon](https://falcon.crowdstrike.com/)
 - [WNYC](https://www.wnyc.org/)
+- [Travis CI](https://www.travis-ci.com/)
+- [DockYard](https://dockyard.com/)
+- [Skylight](https://www.skylight.io/app/)
+- [Yapp](https://www.yapp.us/)
+
+## Open Source
+
+- https://github.com/yahoo/covid-19-dashboard
+- https://github.com/CenterForOpenScience/ember-osf-web
