@@ -34,6 +34,7 @@ An up to date list of publicly and privately available Ember applications.
 - [kaliber5](https://www.kaliber5.de/)
 - [TrueCoach](https://app.truecoach.co/)
 - [Localistico](https://app.localistico.com/)
+- [Scout](https://app.scoutforpets.com/)
 
 ## Open Source
 
