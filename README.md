@@ -30,7 +30,6 @@ An up to date list of publicly and privately available Ember applications.
 - [Sweetgreen](https://order.sweetgreen.com/)
 - [SatisMeter](https://app.satismeter.com/)
 - [Qonto](https://app.qonto.com/)
-- 
 
 ## Open Source
 
