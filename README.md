@@ -3,7 +3,8 @@ An up to date list of publicly and privately available Ember applications.
 
 - [LinkedIn](https://www.linkedin.com/)
 - [Intercom](https://app.intercom.com/)
-- [Terraform](https://app.terraform.io/)
+- [HashiCorp Terraform](https://app.terraform.io/)
+- [HashiCorp Cloud Platform](https://portal.cloud.hashicorp.com/)
 - [Heroku](https://dashboard.heroku.com/)
 - [Apple Music](https://music.apple.com)
 - [Apple App Store Preview](https://apps.apple.com/us/app/instagram/id389801252)
@@ -27,6 +28,7 @@ An up to date list of publicly and privately available Ember applications.
 - [Flexbox Defense](http://www.flexboxdefense.com/)
 - [imgix Sandbox](https://sandbox.imgix.com/)
 - [Sweetgreen](https://order.sweetgreen.com/)
+- [SatisMeter](https://app.satismeter.com/)
 
 ## Open Source
 
