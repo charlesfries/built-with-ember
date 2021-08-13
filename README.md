@@ -15,6 +15,9 @@ An up to date list of publicly and privately available Ember applications.
 - [Skylight](https://www.skylight.io/app/)
 - [Yapp](https://www.yapp.us/)
 - [Discourse](https://try.discourse.org/)
+- [Ghost](https://ghost.org/)
+- [Kitsu](https://kitsu.io/)
+- [DigitalOcean](https://cloud.digitalocean.com/)
 
 ## Open Source
 
