@@ -42,6 +42,7 @@ An up to date list of publicly and privately available Ember applications.
 - [Outdoorsy](https://www.outdoorsy.com/)
 - [DocHub](https://dochub.com/)
 - [Glimmer Apollo](https://glimmer-apollo.com/)
+- [Lytics](https://app.lytics.com/)
 
 ## Open Source
 
