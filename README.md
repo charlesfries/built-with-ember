@@ -44,6 +44,7 @@ An up to date list of publicly and privately available Ember applications.
 - [Glimmer Apollo](https://glimmer-apollo.com/)
 - [Lytics](https://app.lytics.com/)
 - [Bitski](https://wallet.bitski.com/)
+- [Ember Discuss](https://discuss.emberjs.com/)
 
 ## Open Source
 
