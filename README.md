@@ -54,3 +54,4 @@ An up to date list of publicly and privately available Ember applications.
 - [OSF](https://github.com/CenterForOpenScience/ember-osf-web)
 - [emberclear](https://github.com/NullVoxPopuli/emberclear)
 - [Ghost Admin](https://github.com/TryGhost/Admin)
+- [Crates.io](https://github.com/rust-lang/crates.io)
