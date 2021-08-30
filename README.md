@@ -46,6 +46,7 @@ An up to date list of publicly and privately available Ember applications.
 - [Bitski](https://wallet.bitski.com/)
 - [Ember Discuss](https://discuss.emberjs.com/)
 - [Docfy](https://docfy.dev/)
+- [Crates.io](https://crates.io/)
 
 ## Open Source
 
