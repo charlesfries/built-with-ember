@@ -48,6 +48,7 @@ An up to date list of publicly and privately available Ember applications.
 - [Docfy](https://docfy.dev/)
 - [Crates.io](https://crates.io/)
 - [Stacktune](https://stacktune.com)
+- [Ilios](https://ilios-frontend.netlify.app/)
 
 ## Open Source
 
@@ -56,3 +57,4 @@ An up to date list of publicly and privately available Ember applications.
 - [emberclear](https://github.com/NullVoxPopuli/emberclear)
 - [Ghost Admin](https://github.com/TryGhost/Admin)
 - [Crates.io](https://github.com/rust-lang/crates.io)
+- [Ilios](https://github.com/ilios/frontend)
