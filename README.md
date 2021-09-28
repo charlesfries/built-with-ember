@@ -49,6 +49,7 @@ An up to date list of publicly and privately available Ember applications.
 - [Crates.io](https://crates.io/)
 - [Stacktune](https://stacktune.com)
 - [Ilios](https://ilios-frontend.netlify.app/)
+- [mdEditor](https://go.mdeditor.org/)
 
 ## Open Source
 
