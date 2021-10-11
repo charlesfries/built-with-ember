@@ -59,3 +59,4 @@ An up to date list of publicly and privately available Ember applications.
 - [Ghost Admin](https://github.com/TryGhost/Admin)
 - [Crates.io](https://github.com/rust-lang/crates.io)
 - [Ilios](https://github.com/ilios/frontend)
+- [Brain Up](https://github.com/Brain-up/brn)
