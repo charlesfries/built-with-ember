@@ -50,6 +50,7 @@ An up to date list of publicly and privately available Ember applications.
 - [Stacktune](https://stacktune.com)
 - [Ilios](https://ilios-frontend.netlify.app/)
 - [mdEditor](https://go.mdeditor.org/)
+- [Runtastic](https://www.runtastic.com/)
 
 ## Open Source
 
