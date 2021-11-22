@@ -61,3 +61,4 @@ An up to date list of publicly and privately available Ember applications.
 - [Crates.io](https://github.com/rust-lang/crates.io)
 - [Ilios](https://github.com/ilios/frontend)
 - [Brain Up](https://github.com/Brain-up/brn)
+- [Eventyay](https://github.com/fossasia/open-event-frontend)
