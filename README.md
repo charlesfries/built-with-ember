@@ -52,6 +52,7 @@ An up to date list of publicly and privately available Ember applications.
 - [mdEditor](https://go.mdeditor.org/)
 - [Runtastic](https://www.runtastic.com/)
 - [TVNZ](https://www.tvnz.co.nz/)
+- [Prysmex](https://app.prysmex.com/)
 
 ## Open Source
 
