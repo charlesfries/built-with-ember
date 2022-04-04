@@ -53,6 +53,7 @@ An up to date list of publicly and privately available Ember applications.
 - [Runtastic](https://www.runtastic.com/)
 - [TVNZ](https://www.tvnz.co.nz/)
 - [Prysmex](https://app.prysmex.com/)
+- [OTA Inight](https://app.otainsight.com/)
 
 ## Open Source
 
