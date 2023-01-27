@@ -54,6 +54,7 @@ An up to date list of publicly and privately available Ember applications.
 - [TVNZ](https://www.tvnz.co.nz/)
 - [Prysmex](https://app.prysmex.com/)
 - [Customer.io](https://fly.customer.io/)
+- [Fabscale](https://app.fabscale.com/)
 
 ## Open Source
 
