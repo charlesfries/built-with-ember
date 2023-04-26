@@ -55,6 +55,7 @@ An up to date list of publicly and privately available Ember applications.
 - [Prysmex](https://app.prysmex.com/)
 - [Customer.io](https://fly.customer.io/)
 - [Fabscale](https://app.fabscale.com/)
+- [Cardstack](https://app.cardstack.com/)
 
 ## Open Source
 
